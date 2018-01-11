@@ -349,3 +349,11 @@ Collect and share results for **correlation filter trackers**.
 "Correlation Filters With Weighted Convolution Responses." ICCV workshop (2017).
 [[paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/He_Correlation_Filters_With_ICCV_2017_paper.pdf)]
 [[github](https://github.com/he010103/CFWCR)]
+
+## Application-driven
+* **CFWCR:** Achim Kampker, Mohsen Sefati, Arya Abdul Rachman, Kai Kreisköther, Pascual Campoy
+"Towards Multi-Object Detection and Tracking in Urban Scenario under Uncertainties".
+[[paper](https://arxiv.org/abs/1801.02686)]
+
+
+
