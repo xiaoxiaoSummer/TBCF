@@ -351,7 +351,7 @@ Collect and share results for **correlation filter trackers**.
 [[github](https://github.com/he010103/CFWCR)]
 
 ## Application-driven
-* **CFWCR:** Achim Kampker, Mohsen Sefati, Arya Abdul Rachman, Kai Kreisköther, Pascual Campoy
+* Achim Kampker, Mohsen Sefati, Arya Abdul Rachman, Kai Kreisköther, Pascual Campoy
 "Towards Multi-Object Detection and Tracking in Urban Scenario under Uncertainties".
 [[paper](https://arxiv.org/abs/1801.02686)]
 
