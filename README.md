@@ -237,6 +237,10 @@ Collect and share results for **correlation filter trackers**.
 [[paper](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/SRDCF_ICCV15.pdf)]
 [[project](https://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/)]
 
+* **STRCF:** Feng Li, Cheng Tian, Wangmeng Zuo, Lei Zhang, and Ming-Hsuan Yang
+Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking (2018)
+
+
 * **CFLB** Hamed Kiani Galoogahi, Terence Sim, Simon Lucey.
 "Correlation Filters with Limited Boundaries." CVPR (2015).
 [[paper](http://www.hamedkiani.com/uploads/5/1/8/8/51882963/galoogahi_correlation_filters_with_2015_cvpr_paper.pdf)]
